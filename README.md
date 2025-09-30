@@ -1,13 +1,3 @@
-# Professional Profile App
-
-A React Native mobile application showcasing your professional profile with Bio, Skills, Projects, and Contact Information.
-
-## Features
-
-- **Bio Section**: Display your professional summary and background
-- **Skills Section**: Showcase your technical and soft skills
-- **Projects Section**: Highlight your portfolio projects
-- **Contact Information**: Share your contact details and social links
 
 ## Getting Started
 
